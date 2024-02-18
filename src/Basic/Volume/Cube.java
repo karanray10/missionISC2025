@@ -1,4 +1,4 @@
-package Volume;
+package Basic.Volume;
 
 public class Cube {
 
@@ -9,6 +9,6 @@ public class Cube {
     public static void main(String[] args) {
         double side = 6.0;
         double volume = calculateVolume(side);
-        System.out.println("Volume of cube: " + volume);
+        System.out.println("Basic.Volume of cube: " + volume);
     }
 }

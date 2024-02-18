@@ -1,4 +1,4 @@
-package Volume;
+package Basic.Volume;
 
 public class Cuboid {
 
@@ -11,6 +11,6 @@ public class Cuboid {
         double width = 4.0;
         double height = 3.0;
         double volume = calculateVolume(length, width, height);
-        System.out.println("Volume of cuboid: " + volume);
+        System.out.println("Basic.Volume of cuboid: " + volume);
     }
 }

@@ -1,4 +1,4 @@
-package Volume;
+package Basic.Volume;
 
 public class Cylinder {
 
@@ -10,6 +10,6 @@ public class Cylinder {
         double radius = 3.0;
         double height = 5.0;
         double volume = calculateVolume(radius, height);
-        System.out.println("Volume of cylinder: " + volume);
+        System.out.println("Basic.Volume of cylinder: " + volume);
     }
 }

@@ -1,4 +1,4 @@
-package Volume;
+package Basic.Volume;
 
 public class Sphere {
 
@@ -9,6 +9,6 @@ public class Sphere {
     public static void main(String[] args) {
         double radius = 2.0;
         double volume = calculateVolume(radius);
-        System.out.println("Volume of sphere: " + volume);
+        System.out.println("Basic.Volume of sphere: " + volume);
     }
 }

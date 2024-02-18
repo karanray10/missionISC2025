@@ -1,4 +1,4 @@
-package Volume;
+package Basic.Volume;
 
 public class Cone {
 
@@ -10,6 +10,6 @@ public class Cone {
         double radius = 5.0;
         double height = 10.0;
         double volume = calculateVolume(radius, height);
-        System.out.println("Volume of cone: " + volume);
+        System.out.println("Basic.Volume of cone: " + volume);
     }
 }

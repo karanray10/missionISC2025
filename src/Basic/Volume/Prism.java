@@ -1,4 +1,4 @@
-package Volume;
+package Basic.Volume;
 
 public class Prism {
 
@@ -12,6 +12,6 @@ public class Prism {
         double height = 2.0;
         double baseArea = length * width;
         double volume = calculateVolume(baseArea, height);
-        System.out.println("Volume of rectangular prism: " + volume);
+        System.out.println("Basic.Volume of rectangular prism: " + volume);
     }
 }
