@@ -6,13 +6,7 @@ public class DivideNumbers {
         int num1 = 10;
         int num2 = 5;
 
-        if (num1 == 0 || num2 == 0) {
-            System.out.println("Invalid entry. Cannot divide by zero.");
-        } else {
-            int largerNumber = Math.max(num1, num2);
-            int smallerNumber = Math.min(num1, num2);
-            double result = (double) largerNumber / smallerNumber;
-            System.out.println("The result of dividing " + largerNumber + " by " + smallerNumber + " is: " + result);
-        }
+        double result = (double) num1 / num2;
+        System.out.println("The result of dividing " + num1 + " by " + num2 + " is: " + result);
     }
 }
