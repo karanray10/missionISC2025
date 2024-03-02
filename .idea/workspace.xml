@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70c0df82-493d-4b01-ae0c-691d0ad52881" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Conditional/TwinPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditional/BMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditional/Electricitybill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditional/EvenOddTernary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditional/Odddays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conditional/DivideNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conditional/DivideNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
