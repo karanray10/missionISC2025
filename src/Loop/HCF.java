@@ -6,8 +6,6 @@ public class HCF{
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
-        // Get input from the user
         System.out.print("Enter the first number: ");
         int num1 = scanner.nextInt();
 

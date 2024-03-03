@@ -20,7 +20,7 @@ public class Perfect {
                 }
             }
         }
-        if (sum == number && number > 1) { // Exclude 1 as a perfect number
+        if (sum == number && number > 1) {
             System.out.println(number + " is a perfect number.");
         } else {
             System.out.println(number + " is not a perfect number.");
