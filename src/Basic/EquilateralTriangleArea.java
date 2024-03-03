@@ -8,7 +8,7 @@ public class EquilateralTriangleArea {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the side length of the equilateral triangle: ");
         double side = scanner.nextDouble();
-        double area = Math.sqrt(3) * Math.pow(side, 2) / 4;
+        double area = (Math.sqrt(3)/4)*Math.pow(side,2);
         System.out.println("The area of the equilateral triangle is: " + area);
     }
 }

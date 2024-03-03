@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70c0df82-493d-4b01-ae0c-691d0ad52881" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Conditional/BMI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conditional/Electricitybill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conditional/EvenOddTernary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conditional/Odddays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop/Perfect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop/Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop/SumOfOddEvenDigits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mission2025/Basic/EquilateralTriangleArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mission2025/Basic/EquilateralTriangleArea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mission2025/Conditional/DivideNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mission2025/Conditional/DivideNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/EquilateralTriangleArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/EquilateralTriangleArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Conditional/Electricitybill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conditional/Electricitybill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Conditional/Odddays.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,41 +40,51 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2cE80yI02kFWnL4kTDAI5tvkRQH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.CircleArea.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DivideNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EenOddNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloWord.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IncomeTaxCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InstanceOfExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeapYear.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TwinPrime.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-20&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AreaCircle.executor": "Run",
+    "Application.CircleArea.executor": "Run",
+    "Application.DivideNumbers.executor": "Run",
+    "Application.EenOddNumber.executor": "Run",
+    "Application.EquilateralTriangleArea.executor": "Run",
+    "Application.HelloWord.executor": "Run",
+    "Application.IncomeTaxCalculator.executor": "Run",
+    "Application.InstanceOfExample.executor": "Run",
+    "Application.LeapYear.executor": "Run",
+    "Application.MaximumOfFourNumber.executor": "Run",
+    "Application.Product.executor": "Run",
+    "Application.TwinPrime.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "openjdk-20",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TwinPrime">
-    <configuration name="DivideNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditional.DivideNumbers" />
+  <component name="RunManager" selected="Application.EquilateralTriangleArea">
+    <configuration name="AreaCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Volume.AreaCircle" />
       <module name="Mission2025" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Conditional.*" />
+          <option name="PATTERN" value="Basic.Volume.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.HelloWord" />
+    <configuration name="EquilateralTriangleArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.EquilateralTriangleArea" />
       <module name="Mission2025" />
       <extension name="coverage">
         <pattern>
@@ -91,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstanceOfExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example.InstanceOfExample" />
+    <configuration name="MaximumOfFourNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TernaryOperator.MaximumOfFourNumber" />
       <module name="Mission2025" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Example.*" />
+          <option name="PATTERN" value="TernaryOperator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditional.LeapYear" />
+    <configuration name="Product" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conditional.Product" />
       <module name="Mission2025" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EquilateralTriangleArea" />
+        <item itemvalue="Application.AreaCircle" />
         <item itemvalue="Application.TwinPrime" />
-        <item itemvalue="Application.LeapYear" />
-        <item itemvalue="Application.InstanceOfExample" />
-        <item itemvalue="Application.HelloWord" />
-        <item itemvalue="Application.DivideNumbers" />
+        <item itemvalue="Application.Product" />
+        <item itemvalue="Application.MaximumOfFourNumber" />
       </list>
     </recent_temporary>
   </component>

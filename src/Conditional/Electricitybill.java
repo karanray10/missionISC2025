@@ -8,9 +8,7 @@ class ComputeElectricityBill {
             return units * 10;
         }
         else if (units <= 200) {
-            return (100 * 10)
-                    + (units - 100)
-                    * 15;
+            return (100 * 10) + (units - 100) * 15;
         }
         else if (units <= 300) {
             return (100 * 10)
