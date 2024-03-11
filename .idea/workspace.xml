@@ -5,10 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70c0df82-493d-4b01-ae0c-691d0ad52881" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Conditional/Leap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conditional/Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conditional/Perfect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditional/Integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop/Automorphic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop/Buzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop/Fascinating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop/Krishnamurthy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop/Neon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop/Peterson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop/Spy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop/Sunny.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mission2025/Conditional/TwinPrime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Conditional/TwinPrime.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +39,20 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;karanray10&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="90dc1f88-dace-4b9e-a2ba-41202be70303" />
+        <option name="url" value="https://github.com/karanray10/missionISC2025.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -55,14 +78,17 @@
     "Application.HelloWord.executor": "Run",
     "Application.IncomeTaxCalculator.executor": "Run",
     "Application.InstanceOfExample.executor": "Run",
+    "Application.Integer.executor": "Run",
     "Application.Leap.executor": "Run",
     "Application.LeapYear.executor": "Run",
     "Application.MaximumOfFourNumber.executor": "Run",
     "Application.Number.executor": "Debug",
     "Application.Perfect.executor": "Debug",
+    "Application.Peterson.executor": "Run",
     "Application.Prime.executor": "Run",
     "Application.Product.executor": "Run",
     "Application.SumOfOddEvenDigits.executor": "Run",
+    "Application.Sunny.executor": "Run",
     "Application.TwinPrime.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -81,7 +107,7 @@
       <recent name="Basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Perfect">
+  <component name="RunManager" selected="Application.Sunny">
     <configuration name="FiveTernary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Conditional.FiveTernary" />
       <module name="Mission2025" />
@@ -121,8 +147,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loop.Prime" />
+    <configuration name="Peterson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop.Peterson" />
       <module name="Mission2025" />
       <extension name="coverage">
         <pattern>
@@ -134,8 +160,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfOddEvenDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loop.SumOfOddEvenDigits" />
+    <configuration name="Sunny" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop.Sunny" />
       <module name="Mission2025" />
       <extension name="coverage">
         <pattern>
@@ -149,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sunny" />
+        <item itemvalue="Application.Peterson" />
         <item itemvalue="Application.Perfect" />
         <item itemvalue="Application.Number" />
         <item itemvalue="Application.FiveTernary" />
-        <item itemvalue="Application.SumOfOddEvenDigits" />
-        <item itemvalue="Application.Prime" />
       </list>
     </recent_temporary>
   </component>
@@ -248,36 +274,6 @@
           <url>file://$PROJECT_DIR$/src/Conditional/Number.java</url>
           <line>22</line>
           <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Conditional/Perfect.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Conditional/Perfect.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Conditional/Perfect.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Conditional/Perfect.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Conditional/Perfect.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Conditional/Perfect.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
