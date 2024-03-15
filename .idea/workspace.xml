@@ -5,19 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70c0df82-493d-4b01-ae0c-691d0ad52881" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Conditional/Integer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop/Automorphic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop/Buzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop/Fascinating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop/Krishnamurthy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop/Neon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop/Peterson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop/Spy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop/Sunny.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/starPattern/KPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/starPattern/LeftHalfPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/starPattern/Pattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/starPattern/ReverseLeftHalfPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/starPattern/ReverseRightHalfPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/starPattern/RightHalfPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/starPattern/SquareFillPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/starPattern/TrianglePattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/starPattern/TrianglePattern2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mission2025/Conditional/TwinPrime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conditional/TwinPrime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/starPattern/k.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/starPattern/k.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,55 +63,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Age.executor": "Run",
-    "Application.AreaCircle.executor": "Run",
-    "Application.CircleArea.executor": "Run",
-    "Application.DivideNumbers.executor": "Run",
-    "Application.EenOddNumber.executor": "Run",
-    "Application.EquilateralTriangleArea.executor": "Run",
-    "Application.FiveTernary.executor": "Run",
-    "Application.HCF.executor": "Run",
-    "Application.HelloWord.executor": "Run",
-    "Application.IncomeTaxCalculator.executor": "Run",
-    "Application.InstanceOfExample.executor": "Run",
-    "Application.Integer.executor": "Run",
-    "Application.Leap.executor": "Run",
-    "Application.LeapYear.executor": "Run",
-    "Application.MaximumOfFourNumber.executor": "Run",
-    "Application.Number.executor": "Debug",
-    "Application.Perfect.executor": "Debug",
-    "Application.Peterson.executor": "Run",
-    "Application.Prime.executor": "Run",
-    "Application.Product.executor": "Run",
-    "Application.SumOfOddEvenDigits.executor": "Run",
-    "Application.Sunny.executor": "Run",
-    "Application.TwinPrime.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "openjdk-20",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Problems",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Age.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AreaCircle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BigBiggerBiggest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CircleArea.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DivideNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EenOddNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EquilateralTriangleArea.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FiveTernary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HCF.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IncomeTaxCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InstanceOfExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Integer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Leap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeapYear.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximumOfFourNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Number.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Pattern1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Perfect.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Peterson.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Product.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfOddEvenDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sunny.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwinPrime.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-20&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Sunny">
-    <configuration name="FiveTernary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditional.FiveTernary" />
+  <component name="RunManager" selected="Application.HollowTriangle">
+    <configuration name="BigBiggerBiggest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop.BigBiggerBiggest" />
       <module name="Mission2025" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Conditional.*" />
+          <option name="PATTERN" value="Loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +121,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditional.Number" />
+    <configuration name="HollowTriangle" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="starPattern.HollowTriangle" />
       <module name="Mission2025" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Conditional.*" />
+          <option name="PATTERN" value="starPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="starPattern.Pattern1" />
+      <module name="Mission2025" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="starPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pattern1" />
+        <item itemvalue="Application.BigBiggerBiggest" />
         <item itemvalue="Application.Sunny" />
         <item itemvalue="Application.Peterson" />
         <item itemvalue="Application.Perfect" />
-        <item itemvalue="Application.Number" />
-        <item itemvalue="Application.FiveTernary" />
       </list>
     </recent_temporary>
   </component>
