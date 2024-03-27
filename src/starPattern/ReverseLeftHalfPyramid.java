@@ -14,3 +14,5 @@ public class ReverseLeftHalfPyramid {
             }
             System.out.println();
         }
+    }
+}
