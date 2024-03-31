@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70c0df82-493d-4b01-ae0c-691d0ad52881" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Loop/Alphabet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop/Alphabet2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop/E.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop/TechNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/starPattern/HollowTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/starPattern/HollowTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/starPattern/ReverseLeftHalfPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/starPattern/ReverseLeftHalfPyramid.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,50 +54,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Age.executor": "Run",
-    "Application.Alphabet.executor": "Run",
-    "Application.Alphabet2.executor": "Run",
-    "Application.AreaCircle.executor": "Run",
-    "Application.BigBiggerBiggest.executor": "Run",
-    "Application.CircleArea.executor": "Run",
-    "Application.DivideNumbers.executor": "Run",
-    "Application.Dog.executor": "Debug",
-    "Application.E.executor": "Run",
-    "Application.EenOddNumber.executor": "Run",
-    "Application.EquilateralTriangleArea.executor": "Run",
-    "Application.Example1.executor": "Run",
-    "Application.FiveTernary.executor": "Run",
-    "Application.HCF.executor": "Run",
-    "Application.HelloWord.executor": "Run",
-    "Application.IncomeTaxCalculator.executor": "Run",
-    "Application.InstanceOfExample.executor": "Run",
-    "Application.Integer.executor": "Run",
-    "Application.Leap.executor": "Run",
-    "Application.LeapYear.executor": "Run",
-    "Application.MaximumOfFourNumber.executor": "Run",
-    "Application.Number.executor": "Debug",
-    "Application.Pattern1.executor": "Run",
-    "Application.Perfect.executor": "Debug",
-    "Application.Peterson.executor": "Run",
-    "Application.Prime.executor": "Run",
-    "Application.Product.executor": "Run",
-    "Application.SumOfOddEvenDigits.executor": "Run",
-    "Application.Sunny.executor": "Run",
-    "Application.TwinPrime.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "openjdk-20",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Problems",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Age.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Alphabet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Alphabet2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AreaCircle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BigBiggerBiggest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CircleArea.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DivideNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Dog.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.E.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EenOddNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EquilateralTriangleArea.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FiveTernary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HCF.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IncomeTaxCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InstanceOfExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Integer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Leap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeapYear.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximumOfFourNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Number.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Pattern1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Perfect.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Peterson.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Product.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfOddEvenDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sunny.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwinPrime.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-20&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Basic" />
