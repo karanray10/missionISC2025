@@ -22,7 +22,7 @@ static boolean isSmith(int n){
     return SumDigit(n)==prime(n);
 }
 
-public static void main(String[] args) {
+public static void main (String args[]) {
 
     int number=43;
     if (isSmith(number)){
