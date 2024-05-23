@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70c0df82-493d-4b01-ae0c-691d0ad52881" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Reccursion/Ascending.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SmithNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SmithNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +60,7 @@
     "Application.AreaCircle.executor": "Run",
     "Application.BigBiggerBiggest.executor": "Run",
     "Application.CircleArea.executor": "Run",
+    "Application.Decreasing.executor": "Debug",
     "Application.DivideNumbers.executor": "Run",
     "Application.Dog.executor": "Debug",
     "Application.E.executor": "Run",
@@ -80,10 +81,12 @@
     "Application.Perfect.executor": "Debug",
     "Application.Peterson.executor": "Run",
     "Application.Prime.executor": "Run",
+    "Application.PrintName.executor": "Run",
     "Application.Product.executor": "Run",
     "Application.Prog14.executor": "Run",
     "Application.SmithNumber.executor": "Run",
     "Application.Student.executor": "Run",
+    "Application.Sum.executor": "Run",
     "Application.SumOfOddEvenDigits.executor": "Run",
     "Application.Sunny.executor": "Run",
     "Application.TwinPrime.executor": "Run",
@@ -104,7 +107,7 @@
       <recent name="Basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Student">
+  <component name="RunManager">
     <configuration name="E" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Loop.E" />
       <module name="Mission2025" />
@@ -321,6 +324,76 @@
           <url>file://$PROJECT_DIR$/src/demo/Dog.java</url>
           <line>41</line>
           <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reccursion/PrintName.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reccursion/PrintName.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reccursion/PrintName.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reccursion/PrintName.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reccursion/Decreasing.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reccursion/Decreasing.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reccursion/Decreasing.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reccursion/Decreasing.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reccursion/Decreasing.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reccursion/Ascending.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reccursion/Ascending.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reccursion/Ascending.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reccursion/Ascending.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reccursion/Ascending.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/demo/Dog.java</url>
