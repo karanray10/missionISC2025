@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70c0df82-493d-4b01-ae0c-691d0ad52881" name="Changes" comment="" />
+    <list default="true" id="70c0df82-493d-4b01-ae0c-691d0ad52881" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mission2025/Reccursion/DecToBin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mission2025/Reccursion/DecToBin.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,6 +76,7 @@
     "Application.Integer.executor": "Run",
     "Application.Leap.executor": "Run",
     "Application.LeapYear.executor": "Run",
+    "Application.LinearSearch.executor": "Run",
     "Application.MaximumOfFourNumber.executor": "Run",
     "Application.Number.executor": "Debug",
     "Application.Pattern1.executor": "Run",
@@ -83,6 +87,7 @@
     "Application.Product.executor": "Run",
     "Application.Prog14.executor": "Run",
     "Application.SmithNumber.executor": "Run",
+    "Application.Store10Number.executor": "Run",
     "Application.Student.executor": "Run",
     "Application.Sum.executor": "Run",
     "Application.SumOfOddEvenDigits.executor": "Run",
@@ -98,6 +103,7 @@
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
@@ -106,7 +112,7 @@
       <recent name="Basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DecToBin">
+  <component name="RunManager" selected="Application.LinearSearch">
     <configuration name="DecToBin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Reccursion.DecToBin" />
       <module name="Mission2025" />
@@ -133,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prog14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="APC.StatementandScope.Prog14" />
+    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.LinearSearch" />
       <module name="Mission2025" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="APC.StatementandScope.*" />
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,9 +152,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmithNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SmithNumber" />
+    <configuration name="Store10Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Store10Number" />
       <module name="Mission2025" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -181,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinearSearch" />
+        <item itemvalue="Application.Store10Number" />
         <item itemvalue="Application.DecToBin" />
         <item itemvalue="Application.dectobin" />
         <item itemvalue="Application.Student" />
-        <item itemvalue="Application.SmithNumber" />
-        <item itemvalue="Application.Prog14" />
       </list>
     </recent_temporary>
   </component>
@@ -548,6 +560,26 @@
           <url>file://$PROJECT_DIR$/src/Reccursion/Palindrome.java</url>
           <line>14</line>
           <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reccursion/LCM.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reccursion/LCM.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reccursion/LCM.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reccursion/LCM.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="84" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/demo/Dog.java</url>
